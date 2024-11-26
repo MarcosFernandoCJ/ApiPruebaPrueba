@@ -1,0 +1,4 @@
+package com.tecup.apirestporject.model;
+
+public class Rol {
+}
